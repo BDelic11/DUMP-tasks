@@ -1,0 +1,14 @@
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\bin\Debug\net6.0\Phone Book App.exe
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\bin\Debug\net6.0\Phone Book App.deps.json
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\bin\Debug\net6.0\Phone Book App.runtimeconfig.json
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\bin\Debug\net6.0\Phone Book App.dll
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\bin\Debug\net6.0\Phone Book App.pdb
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\Phone Book App.GeneratedMSBuildEditorConfig.editorconfig
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\Phone Book App.AssemblyInfoInputs.cache
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\Phone Book App.AssemblyInfo.cs
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\Phone Book App.csproj.CoreCompileInputs.cache
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\Phone Book App.dll
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\refint\Phone Book App.dll
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\Phone Book App.pdb
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\Phone Book App.genruntimeconfig.cache
+D:\DUMP\2 - Object Oriented Programming\Homework - Phone Book App\Phone Book App\obj\Debug\net6.0\ref\Phone Book App.dll

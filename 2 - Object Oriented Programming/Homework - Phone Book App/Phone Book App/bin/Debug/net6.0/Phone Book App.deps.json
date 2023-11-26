@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Phone Book App/1.0.0": {
+        "runtime": {
+          "Phone Book App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phone Book App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

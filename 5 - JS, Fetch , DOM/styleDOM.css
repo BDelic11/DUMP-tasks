@@ -1,0 +1,72 @@
+.card {
+    background: darkgrey;
+    color: black;
+    margin: 30px;
+    padding: 10px 0 10px 0;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.cardContainer {
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+}
+
+.inputButtonContainer {
+    
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+}
+
+.input {
+    background: rgb(191, 191, 191);
+    border: none;
+    border-radius:10px;
+    margin-bottom: 10px;
+    height: 60px;
+    width: 35%;
+}
+
+.input ::placeholder {
+    margin-left: 20px;
+}
+
+.button {
+    background: rgb(91, 91, 91);
+    border: rgb(91, 91, 91);
+    margin-bottom: 10px;
+    height: 30px;
+    width: 150px;
+    color: white;
+    
+}
+
+.button:hover {
+    background:rgb(109, 57, 57) ;
+    height: 33px;
+    width: 155px;
+    transition-duration: 0.2s;
+    transition-delay: 0.2ms;
+}
+
+
+
+.image {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}

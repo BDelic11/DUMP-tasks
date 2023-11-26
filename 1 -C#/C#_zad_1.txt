@@ -1,0 +1,36 @@
+using System.Text;
+
+namespace C__Dump_1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            var newDictionary = new Dictionary<string, int>()
+           {
+               {"patike", 100 },
+               {"majice", 59 },
+               {"carape", 300 }
+           };
+
+            var leastSoldProduct = FindLeastSold(newDictionary);
+            Console.WriteLine(leastSoldProduct.Name + " " + leastSoldProduct.Quantity);
+
+
+
+        }
+
+        static (string Name , int Quantity) FindLeastSold (Dictionary <string, int> newDictionary)
+        {
+            var leastSoldProduct = (Name: "None", Quantity: 0);
+
+            foreach (var product in newDictionary) {
+                if (product.Value < leastSoldProduct.Quantity || leastSoldProduct.Quantity == 0)
+                {
+                    leastSoldProduct = (product.Key, product.Value);
+                }
+            }
+            return leastSoldProduct;
+        }
+    }   
+}

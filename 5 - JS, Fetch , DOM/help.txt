@@ -1,0 +1,6 @@
+ <div class="block" id="first" onclick="changeText(event)"> First </div>
+    <div class="block">Second</div>
+    <div class="block middle">Third</div>
+    <div class="block">Fourth</div>
+    <div class="block">Fifth</div>
+    <input type="text", id="text-input">
